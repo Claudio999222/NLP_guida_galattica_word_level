@@ -1,0 +1,2 @@
+# NLP_guida_galattica_word_level
+ In questo notebook addestro un modello sulla trilogia di guida galattica per principianti ma invece che sulle lettere verra addestrato sulle parole, utilizzo le call back di keras per avere dei risultati migliori e imposto nell architettura una epsilon piu bassa per evitare divisioni X 0 durante laddestramento .Per motivi computazionali non e' stato possibile avere dei risultati ottimali, il notebook e stato creato a solo scopo di mostrare le competenze acquisite per quanto riguarda il NLP 
